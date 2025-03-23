@@ -1,1 +1,1 @@
-# tempercom.github.io
+# 临时用于重定向的仓库
